@@ -1,6 +1,6 @@
 # early-hints
 
-Early Hints is a new status code for HTTP/2 push. If you need to push some resources, you need to write `preload` Link Header.
+[Early Hints](https://tools.ietf.org/html/draft-kazuho-early-hints-status-code-00) is a new status code for HTTP/2 push. If you need to push some resources, you need to write `preload` Link Header.
 
 ```
 HTTP/1.1 200 OK
