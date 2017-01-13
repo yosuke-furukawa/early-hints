@@ -1,0 +1,37 @@
+{
+  "name": "early-hints",
+  "version": "0.1.0",
+  "description": "103 Early Hints library to help http2 push",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "eater",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosuke-furukawa/early-hints.git"
+  },
+  "keywords": [
+    "early",
+    "hints",
+    "http/2",
+    "103",
+    "resource",
+    "hints"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yosuke-furukawa/early-hints/issues"
+  },
+  "homepage": "https://github.com/yosuke-furukawa/early-hints#readme",
+  "devDependencies": {
+    "assert-stream": "^1.1.1",
+    "eater": "^3.2.0",
+    "express": "^4.14.0",
+    "standard": "^8.6.0"
+  }
+}

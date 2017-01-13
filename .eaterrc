@@ -1,0 +1,4 @@
+{
+  dir: 'test/',
+  ext: 'test.js'
+}
