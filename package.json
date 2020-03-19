@@ -30,7 +30,7 @@
   "homepage": "https://github.com/yosuke-furukawa/early-hints#readme",
   "devDependencies": {
     "assert-stream": "1.1.1",
-    "eater": "3.3.0",
+    "eater": "4.0.3",
     "express": "4.17.1",
     "standard": "8.6.0"
   }
