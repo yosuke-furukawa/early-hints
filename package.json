@@ -32,6 +32,6 @@
     "assert-stream": "1.1.1",
     "eater": "4.0.4",
     "express": "4.17.1",
-    "standard": "15.0.0"
+    "standard": "16.0.4"
   }
 }
